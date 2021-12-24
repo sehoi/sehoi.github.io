@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![image](/assets/images/profile_img.jpg)
+![image](/assets/images/profile_image.jpg)
 
 ### About me
 - [E-mail](kaiser308@gmail.com)
